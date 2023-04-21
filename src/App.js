@@ -4,21 +4,21 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/09/deltarune-spamton-painting.jpg" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          Spamton <span className="heart">♥️</span> Kromer
         </p>
         <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
+          pipis
         </p>
         <p>
           <a
             className="App-link"
-            href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+            href="https://www.youtube.com/watch?v=7ggQthXpmos"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+             Kromer Totally free
           </a>
         </p>
       </header>
@@ -27,3 +27,4 @@ function App() {
 }
 
 export default App;
+console.log("Tocino");
